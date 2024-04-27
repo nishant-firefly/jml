@@ -11,7 +11,7 @@
    - 2.2 Learn about file handling: reading from and writing to files.
    - 2.5 Study object-oriented programming (OOP) concepts: classes, objects, inheritance, and polymorphism.
 
-3. **Advance Python**:
+3. **Advance Python DSA**:
    - TODO.
 
 4. **Python Libraries**:
@@ -30,7 +30,7 @@
    - 5.4 Context managers: Learn how to work with resources using the with statement.
 
 6. **Web Development**:
-   - 6.1 Learn about web frameworks like Flask or Django.
+   - 6.1 Learn about web frameworks like Flask, FastAPI or Django.
    - 6.2 Understand routing, templates, forms, and databases in web development.
    - 6.3 Build simple web applications to practice what you've learned.
 
