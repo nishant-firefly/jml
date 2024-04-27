@@ -3,12 +3,12 @@
    - 1.2 Understand control flow statements like if, elif, else, for, and while loops.
    - 1.3 Get familiar with functions and how to define and call them.
    - 1.4 Learn about data structures like lists, tuples, dictionaries, and sets.
+   - 1.5 Understand error handling using try-except blocks.
+   - 1.6 Explore comprehensions (list comprehensions, dictionary comprehensions).
+   - 1.7 Dive deeper into functions: lambda functions, function arguments, and recursion.
 
 2. **Intermediate Python**:
-   - 2.1 Dive deeper into functions: lambda functions, function arguments, and recursion.
    - 2.2 Learn about file handling: reading from and writing to files.
-   - 2.3 Understand error handling using try-except blocks.
-   - 2.4 Explore comprehensions (list comprehensions, dictionary comprehensions).
    - 2.5 Study object-oriented programming (OOP) concepts: classes, objects, inheritance, and polymorphism.
 
 3. **Python Libraries**:
