@@ -1,3 +1,5 @@
+# https://github.com/intoli/slice/blob/master/README.md
+# https://datadependence.com/2016/05/python-sequence-slicing-guide/
 # Define a list
 my_list = [1, 2, 3, 4, 5]
 
